@@ -1,6 +1,6 @@
 ## Project Overview
 
-This is the first project in ML Basic Nanodegree and Data Scientist Nanodegree program. In this project, we applied supervised learning techniques on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause.
+This is the first project in ML Basic Nanodegree and Data Scientist Nanodegree programs. In this project, we applied supervised learning techniques on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause.
 
 We first explored the data to learn how the census data is recorded. Next, we applied a series of transformations
 and preprocessing techniques to manipulate the data into a workable format. We then evaluated several supervised  learners of our choice on the data, and considered which was best suited for the solution. Afterwards, I did optimize the model. Finally, I explore the chosen model and
