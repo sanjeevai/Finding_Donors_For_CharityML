@@ -7,3 +7,6 @@
 # README exports
 README.html
 README.pdf
+
+# vscode prefs
+.vscode/*
